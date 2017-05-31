@@ -1,0 +1,3 @@
+[submodule "cookbook-client"]
+	path = cookbook-client
+	url = https://github.com/cekmorse/cookbook-client
