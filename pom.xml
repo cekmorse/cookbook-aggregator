@@ -15,9 +15,21 @@
     <licenses>
         <license>
             <name>MIT</name>
-            <url></url>
+            <url>https://github.com/cekmorse/cookbook-aggregator/blob/master/LICENSE.txt</url>
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <name>Keith H. Morse</name>
+            <email>cekmorse@gmail.com</email>
+            <url>https://github.com/cekmorse</url>
+            <id>cekmorse</id>
+        </developer>
+    </developers>
+
+    <modules>
+        <module>cookbook-client</module>
+    </modules>
 
 </project>
