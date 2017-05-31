@@ -29,7 +29,6 @@
     </developers>
 
     <modules>
-        <module>cookbook-client</module>
     </modules>
 
 </project>
